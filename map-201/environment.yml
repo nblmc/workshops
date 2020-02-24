@@ -111,6 +111,7 @@ dependencies:
   - pip:
     - docker==4.1.0
     - escapism==1.0.0
+    - geopandas==0.6.2
     - jupyter-repo2docker==0.10.0
     - python-json-logger==0.1.11
     - ruamel-yaml==0.16.6
